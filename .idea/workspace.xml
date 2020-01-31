@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03f1d0f-7b6a-4179-8e21-40dc183d00e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzOnBVML0kZ8CjA9w4Efs9GPMf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.DemoMain">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoMain" />
+      <module name="java-intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterschimbareVariabile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterschimbareVariabile" />
+      <module name="java-intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstJavaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstJavaClass" />
+      <module name="java-intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.InterschimbareVariabile" />
+        <item itemvalue="Application.MyFirstJavaClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="180" key="#Project_Structure" timestamp="1580150192555">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state x="560" y="180" key="#Project_Structure/0.23.1920.985@0.23.1920.985" timestamp="1580150192555" />
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1580306617220">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.23.1440.805@0.23.1440.805" timestamp="1580306617220" />
+    <state x="458" y="212" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580308225851">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="458" y="212" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.805@0.23.1440.805" timestamp="1580308225851" />
+    <state x="408" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580474711043">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="408" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.805@0.23.1440.805" timestamp="1580474711043" />
+    <state x="494" y="291" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580308228917">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="494" y="291" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.805@0.23.1440.805" timestamp="1580308228917" />
+    <state x="403" y="46" key="#xdebugger.evaluate" timestamp="1580320799576">
+      <screen x="0" y="23" width="1280" height="629" />
+    </state>
+    <state x="403" y="46" key="#xdebugger.evaluate/0.23.1280.629@0.23.1280.629" timestamp="1580320799576" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1580392498117">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="100" key="GridCell.Tab.0.bottom/0.23.1280.627@0.23.1280.627" timestamp="1580315823421" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.629@0.23.1280.629" timestamp="1580324647309" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1580392498117" />
+    <state width="1878" height="159" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1580152099588" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1580392498116">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="100" key="GridCell.Tab.0.center/0.23.1280.627@0.23.1280.627" timestamp="1580315823420" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.629@0.23.1280.629" timestamp="1580324647307" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1580392498116" />
+    <state width="1878" height="159" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1580152099587" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1580392498115">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="100" key="GridCell.Tab.0.left/0.23.1280.627@0.23.1280.627" timestamp="1580315823418" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.629@0.23.1280.629" timestamp="1580324647306" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1580392498115" />
+    <state width="1878" height="159" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1580152099586" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1580392498117">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="100" key="GridCell.Tab.0.right/0.23.1280.627@0.23.1280.627" timestamp="1580315823420" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.629@0.23.1280.629" timestamp="1580324647308" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1580392498117" />
+    <state width="1878" height="159" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1580152099587" />
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom" timestamp="1580392498119">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom/0.23.1280.629@0.23.1280.629" timestamp="1580324647310" />
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1580392498119" />
+    <state width="1238" height="175" key="GridCell.Tab.1.center" timestamp="1580392498118">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.center/0.23.1280.629@0.23.1280.629" timestamp="1580324647310" />
+    <state width="1238" height="175" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1580392498118" />
+    <state width="1238" height="175" key="GridCell.Tab.1.left" timestamp="1580392498117">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.left/0.23.1280.629@0.23.1280.629" timestamp="1580324647309" />
+    <state width="1238" height="175" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1580392498117" />
+    <state width="1238" height="175" key="GridCell.Tab.1.right" timestamp="1580392498118">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.right/0.23.1280.629@0.23.1280.629" timestamp="1580324647310" />
+    <state width="1238" height="175" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1580392498118" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580321334773">
+      <screen x="0" y="23" width="1280" height="629" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1280.629@0.23.1280.629" timestamp="1580321334773" />
+    <state x="389" y="123" key="new project wizard" timestamp="1580228379435">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="389" y="123" key="new project wizard/0.23.1440.805@0.23.1440.805" timestamp="1580228379435" />
+    <state x="625" y="240" key="search.everywhere.popup" timestamp="1580149980421">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state x="625" y="240" key="search.everywhere.popup/0.23.1920.985@0.23.1920.985" timestamp="1580149980421" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DemoMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
