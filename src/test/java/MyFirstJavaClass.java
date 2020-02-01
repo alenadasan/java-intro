@@ -16,7 +16,6 @@ public class MyFirstJavaClass {
         System.out.println("Suma este" + sum(2, 3));
         System.out.println("Suma este" + sum(10, 3));
         System.out.println("Suma este" + sum(2020, 3));
-
     }
 
     public static int sum(int a, int b) {

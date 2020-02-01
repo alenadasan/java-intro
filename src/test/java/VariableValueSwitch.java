@@ -1,4 +1,4 @@
-public class InterschimbareVariabile {
+public class VariableValueSwitch {
 
     public static void main(String[] args) {
         int a = 5;
