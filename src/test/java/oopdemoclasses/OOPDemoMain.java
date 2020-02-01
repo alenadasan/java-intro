@@ -1,4 +1,6 @@
-public class DemoMain {
+package oopdemoclasses;
+
+public class OOPDemoMain {
 
     public static void main(String[] args) {
 
@@ -13,16 +15,6 @@ public class DemoMain {
         double newSalary = firstEmployee.increaseSalary();
 
         System.out.println(newSalary);
-
-//        System.out.println(firstEmployee.name);
-
-
-//        List<Employee> employees = new ArrayList<Employee>();
-
-//        employees.add(firstEmployee);
-
-
-
 
     }
 }

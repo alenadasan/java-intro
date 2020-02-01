@@ -14,8 +14,6 @@ public class InterschimbareVariabile {
         System.out.println(b);
 
         System.out.println("Valorile sunt: " + a + " si " + b);
-
     }
-
 
 }

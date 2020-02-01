@@ -1,13 +1,11 @@
+package oopdemoclasses;
+
 public class User {
 
     String name;
     String address;
     int orderID;
     boolean isActive;
-
-    public void setName(String n) {
-        name = n;
-    }
 
     public void setAddress(String add) {
         address = add;
@@ -23,6 +21,10 @@ public class User {
 
     public String getName() {
         return name;
+    }
+
+    public void setName(String n) {
+        name = n;
     }
 
     public void displayInfo() {

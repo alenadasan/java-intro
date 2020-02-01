@@ -1,19 +1,18 @@
+package oopdemoclasses;
+
 public class Bicycle {
 
     public int cadence;
     public int gear;
     public int speed;
 
-    // the Bicycle class has
-    // one constructor
+    // the Bicycle class has one constructor
     public Bicycle(int startCadence, int startSpeed, int startGear) {
         gear = startGear;
         cadence = startCadence;
         speed = startSpeed;
     }
 
-    // the Bicycle class has
-    // four methods
     public void setCadence(int newValue) {
         cadence = newValue;
     }

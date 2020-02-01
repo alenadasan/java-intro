@@ -1,10 +1,10 @@
 public class MyFirstJavaClass {
 
     public static void main(String[] args) {
+
         System.out.println("Hello World\n");
 
         String name = "Andreea";
-
         System.out.println(name);
 
         int x = 10;

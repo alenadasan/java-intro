@@ -1,3 +1,5 @@
+package oopdemoclasses;
+
 public class Dog {
 
     String breed;
