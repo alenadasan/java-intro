@@ -1,10 +1,11 @@
 package oopdemoclasses;
 
-public class OOPDemoMain {
+public class EmployeeMain {
 
     public static void main(String[] args) {
 
         Employee firstEmployee = new Employee();
+
         firstEmployee.setName("John Doe");
         firstEmployee.setAge(30);
         firstEmployee.setJobTitle("Shef");
@@ -15,6 +16,5 @@ public class OOPDemoMain {
         double newSalary = firstEmployee.increaseSalary();
 
         System.out.println(newSalary);
-
     }
 }

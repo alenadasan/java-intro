@@ -7,16 +7,12 @@ public class Dog {
     String color;
 
     public void talk() {
-        System.out.println("bow wow wow");
-    }
-
-    void run() {
-
+        System.out.println("bow wow");
     }
 
     void sleep() {
-
+        System.out.println("zzz");
     }
 
-
+    void run() { }
 }
