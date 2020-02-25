@@ -1,5 +1,3 @@
-package oopdemoclasses;
-
 public class MathUtils {
 
     public static int magicNumber = 2020;
