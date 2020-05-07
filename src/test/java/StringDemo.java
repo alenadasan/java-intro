@@ -8,7 +8,7 @@ public class StringDemo {
 
         String s = "This is a DUMMY string    ";
 
-        String trimmedString  = s.trim();
+        String trimmedString = s.trim(); //test
         String lowerCaseString = s.toLowerCase();
         String replacedCharsString = s.replace('M', 'P');
         String substring = s.substring(0, 2);
@@ -31,7 +31,7 @@ public class StringDemo {
         System.out.println("Edited string: " + replacedCharsString);
         System.out.println("First two chars: " + substring);
 
-        System.out.println("String starts with " + prefix + ": "+ startsWith);
+        System.out.println("String starts with " + prefix + ": " + startsWith);
         System.out.println("String is empty: " + isEmpty);
         System.out.println("Contains 'DUMMY' string: " + containsString);
 
