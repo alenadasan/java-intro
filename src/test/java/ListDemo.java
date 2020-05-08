@@ -5,7 +5,7 @@ import java.util.List;
 public class ListDemo {
 
     public static void main(String[] args) {
-        List<String> uninitializedList = new ArrayList<>();
+        List<String> uninitializedList = new ArrayList<String>();
         List<String> initializedList = Arrays.asList("foo", "bar");
 
         uninitializedList.add("foo");
@@ -15,7 +15,7 @@ public class ListDemo {
         uninitializedList.remove(uninitializedList.size() - 1 );
         uninitializedList.remove("car");
 
-        System.out.println(uninitializedList.get(0)); //
+        System.out.println(uninitializedList.get(0));
         System.out.println("List size: " + uninitializedList.size());
         System.out.println("Is list empty: " + uninitializedList.isEmpty());
         System.out.println("Index of bar item: " + uninitializedList.indexOf("bar"));
