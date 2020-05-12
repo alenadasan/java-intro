@@ -1,3 +1,5 @@
+package c02.variables;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -20,5 +22,12 @@ public class ListDemo {
         System.out.println("Is list empty: " + uninitializedList.isEmpty());
         System.out.println("Index of bar item: " + uninitializedList.indexOf("bar"));
         System.out.println("List contains item foo? " + uninitializedList.contains("foo"));
+
+        for (String s : initializedList) {
+            System.out.println(s);
+        }
+
+
+
     }
 }

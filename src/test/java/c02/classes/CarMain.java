@@ -1,4 +1,4 @@
-package oopdemoclasses;
+package c02.classes;
 
 public class CarMain {
 

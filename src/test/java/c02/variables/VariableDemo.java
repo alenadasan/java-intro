@@ -1,4 +1,6 @@
-public class DataTypes {
+package c02.variables;
+
+public class VariableDemo {
 
     public static void main(String[] args) {
 

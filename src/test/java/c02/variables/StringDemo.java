@@ -1,3 +1,5 @@
+package c02.variables;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -43,17 +45,6 @@ public class StringDemo {
         System.out.println("Last char: " + lastChar);
 
 
-        List<String> names = Arrays.asList("Luke", "Leya", "Chewy");
 
-        for (int i = 0; i < names.size(); i++) {
-            System.out.println(names.get(i));
-        }
-
-        for (String name : names) {
-            System.out.println(name);
-        }
-
-        List<String> emptyList = new ArrayList<String>();
-        emptyList.add("Item one");
     }
 }
