@@ -7,8 +7,22 @@ import java.util.List;
 public class ListDemo {
 
     public static void main(String[] args) {
-        List<String> uninitializedList = new ArrayList<String>();
-        List<String> initializedList = Arrays.asList("foo", "bar");
+
+//        ARRAYS DEMO
+        String[] uninitializedArray = new String[10];
+        String[] initializedArray = {"foo", "bar"};
+
+        uninitializedArray[0] = "foo";
+        uninitializedArray[1] = "bar";
+
+
+
+//          ARRAYLISTS DEMO
+        List<String> uninitializedList = new ArrayList<String>(); //empty list
+
+        List<String> initializedList = Arrays.asList("foo", "bar");  //populated list
+
+        List<Integer> ints = Arrays.asList(1, 2, 3);
 
         uninitializedList.add("foo");
         uninitializedList.add("bar");
@@ -23,11 +37,19 @@ public class ListDemo {
         System.out.println("Index of bar item: " + uninitializedList.indexOf("bar"));
         System.out.println("List contains item foo? " + uninitializedList.contains("foo"));
 
-        for (String s : initializedList) {
-            System.out.println(s);
+//        car foo bar
+//         0   1   2
+
+        for(int i = 0; i < initializedArray.length; i++) {
+            System.out.println(initializedArray[i]);
         }
 
+        for (int i = 0; i < uninitializedList.size(); i++) { // similar to: for(int i = 0; i < 3; i++)
+            System.out.println(uninitializedList.get(i));
+        }
 
-
+        for (String s : uninitializedList) {
+            System.out.println(s);
+        }
     }
 }

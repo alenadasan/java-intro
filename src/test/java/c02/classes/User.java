@@ -1,18 +1,25 @@
 package c02.classes;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class User {
 
     String name;
     String address;
-    int orderID;
+    List<Integer> orderIDs;
     boolean isActive;
+
+    public User() {
+        orderIDs = new ArrayList<Integer>();
+    }
 
     public void setAddress(String add) {
         address = add;
     }
 
-    public void setOrderID(int id) {
-        orderID = id;
+    public void addOrderID(int id) {
+        orderIDs.add(id);
     }
 
     public void setActive(boolean active) {
@@ -30,7 +37,11 @@ public class User {
     public void displayInfo() {
         System.out.println("Name: " + name);
         System.out.println("Address: " + address);
-        System.out.println("Order ID: " + orderID);
         System.out.println("Is active: " + isActive);
+
+        System.out.print("Order IDs: ");
+        for (Integer id : orderIDs) {
+            System.out.print(id + " ");
+        }
     }
 }

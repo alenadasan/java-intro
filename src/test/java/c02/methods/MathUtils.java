@@ -21,4 +21,8 @@ public class MathUtils {
     public static void displayMagicNumber() {
         System.out.println(magicNumber);
     }
+
+    public double getRandomNumber() {
+        return Math.random();
+    }
 }
