@@ -6,6 +6,15 @@ public class Employee {
     int age;
     String title;
     double salary;
+    static String companyName;
+
+    public Employee() {
+    }
+
+    public Employee(String name, String title) {
+        this.name = name;
+        this.title = title;
+    }
 
     public void setName(String n) {
         name = n;
@@ -28,11 +37,12 @@ public class Employee {
         System.out.println("Age:" + age);
         System.out.println("Job title:" + title);
         System.out.println("Salary:" + salary);
+        System.out.println("Company name: " + companyName);
     }
 
     public double increaseSalary() {
-        double raise = salary * 1.1;
+        salary = salary + 0.1 * salary;
 
-        return raise;
+        return salary;
     }
 }

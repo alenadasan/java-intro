@@ -8,6 +8,7 @@ public class DogMain {
         firstDog.setName("Frank");
         System.out.println(firstDog.getName());
 
+        firstDog.talk();
         firstDog.sleep();
     }
 }

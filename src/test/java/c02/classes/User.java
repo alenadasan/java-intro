@@ -5,10 +5,10 @@ import java.util.List;
 
 public class User {
 
-    String name;
-    String address;
-    List<Integer> orderIDs;
-    boolean isActive;
+    private String name;
+    private String address;
+    private List<Integer> orderIDs;
+    private boolean isActive;
 
     public User() {
         orderIDs = new ArrayList<Integer>();
